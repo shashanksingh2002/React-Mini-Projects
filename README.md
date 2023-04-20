@@ -5,4 +5,4 @@ The projects in this repository are carefully curated to cover a wide range of t
 Whether you're looking to learn React for the first time or want to expand your knowledge, this repository is a valuable resource that can help you build a strong foundation in React development. So, if you're ready to start building your own mini React projects, dive into this repository and start exploring!
 
 
-<a href="https://photo-card-react.netlify.app/" ><h3>Book-Cards</h3></a>
+<a href="https://photo-card-react.netlify.app/" >Photo-Card</a>
